@@ -1,0 +1,15 @@
+C:\Users\n.rasullu\source\repos\mvp\mvp\bin\Debug\mvp.exe.config
+C:\Users\n.rasullu\source\repos\mvp\mvp\bin\Debug\mvp.exe
+C:\Users\n.rasullu\source\repos\mvp\mvp\bin\Debug\mvp.pdb
+C:\Users\n.rasullu\source\repos\mvp\mvp\bin\Debug\EntityFramework.dll
+C:\Users\n.rasullu\source\repos\mvp\mvp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\n.rasullu\source\repos\mvp\mvp\bin\Debug\EntityFramework.xml
+C:\Users\n.rasullu\source\repos\mvp\mvp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\n.rasullu\source\repos\mvp\mvp\obj\Debug\mvp.csproj.AssemblyReference.cache
+C:\Users\n.rasullu\source\repos\mvp\mvp\obj\Debug\mvp.Properties.Resources.resources
+C:\Users\n.rasullu\source\repos\mvp\mvp\obj\Debug\mvp.Views.MainForm.resources
+C:\Users\n.rasullu\source\repos\mvp\mvp\obj\Debug\mvp.csproj.GenerateResource.cache
+C:\Users\n.rasullu\source\repos\mvp\mvp\obj\Debug\mvp.csproj.CoreCompileInputs.cache
+C:\Users\n.rasullu\source\repos\mvp\mvp\obj\Debug\mvp.csproj.CopyComplete
+C:\Users\n.rasullu\source\repos\mvp\mvp\obj\Debug\mvp.exe
+C:\Users\n.rasullu\source\repos\mvp\mvp\obj\Debug\mvp.pdb
